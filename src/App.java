@@ -6,7 +6,7 @@ public class App {
 
         double descuento = Double.parseDouble(JOptionPane.showInputDialog("Digite el descuento del producto"));
 
-
+        System.out.println("Prueba miguel ");
 
     }
 }
